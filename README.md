@@ -22,5 +22,7 @@ code
 ```
 
 Excel Project: [Egg Sales Over Time](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=TJcSxn)
-![Egg Sales Over Time Excel Project](https://github.com/user-attachments/assets/bf20735e-398a-49bd-9b79-4cdc8a682c86)
+<img src="https://github.com/user-attachments/assets/8ec30ae5-927e-482d-9c55-1ed3bc9a97f9" alt="Alt Text" width="1000" height="480">
+
+
 

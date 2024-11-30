@@ -1,8 +1,18 @@
-# Excel-Projects
-Excel Projects to Show My Excel Skills
+# Egg Sales Over Time Analysis
 
-# H1
-## H2
+# Project Background
+
+# Executive Summary
+
+# Insights
+### Sales Trends
+### Top 10 Buyers
+
+# Recommendations
+
+# Clarifying Questions, Assumptions, and Caveats
+### Quetions for Stakeholders Prior to Project Advancement
+### Assumptions and Caveats
 
 **bold text**
 *italicized text*

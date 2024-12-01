@@ -3,7 +3,9 @@
 # Project Purpose
 This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can minimize waste, avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary
+Egg sales in a neighborhood averaged $350 per month during the pre-COVID-19 period of 2019. During the pandemic, monthly sales surged to over $700 in June 2020 and January 2021, reflecting heightened consumer demand. Despite challenges such as supply chain disruptions, limited transportation, and inflation, sales demonstrated resilience, eventually stabilizing at $300 per month post-pandemic.
 
+This resilience underscores the critical role eggs play as a key driver of grocery shopping habits. Grocery stores can leverage these insights by expanding their inventory of eggs and complementary products often purchased alongside eggs. This strategic approach ensures grocery stores are well-stocked to meet customer needs during both routine and peak demand periods.
 # Insights
 ### Sales Trends
 ### Top 10 Buyers

@@ -1,7 +1,7 @@
 # Egg Sales Over Time Analysis
 
-# Project Background
-
+# Project Purpose
+This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can minimize waste, avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary
 
 # Insights

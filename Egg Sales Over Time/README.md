@@ -6,6 +6,10 @@ This project assists businesses in optimizing their inventory management and pre
 Egg sales in a neighborhood averaged $350 per month during the pre-COVID-19 period of 2019. During the pandemic, monthly sales surged to over $700 in June 2020 and January 2021, reflecting heightened consumer demand. Despite challenge such as supply chain disruptions due to limited transportation, egg sales demonstrated resilience, eventually stabilizing at $300 per month post-pandemic.
 
 This resilience underscores the critical role eggs play as a key driver of grocery shopping habits. Grocery stores can leverage these insights by expanding their inventory of eggs and complementary products often purchased alongside eggs. This strategic approach ensures grocery stores are well-stocked to meet customer needs during both routine and peak demand periods.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fe5a41f-b63d-417b-a82d-eec1d99aec39" alt="Alt Text" width="800" height="380">
+</p>
+
 # Insights
 ### Sales Trends
 ### Top 10 Buyers
@@ -33,7 +37,7 @@ line
 code
 ```
 
-Excel Project: [Egg Sales Over Time](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=PwOfqg)
+Excel Project: [Egg Sales Over Time](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=KbNEe0)
 <img src="https://github.com/user-attachments/assets/8ec30ae5-927e-482d-9c55-1ed3bc9a97f9" alt="Alt Text" width="1000" height="480">
 
 

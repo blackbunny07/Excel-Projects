@@ -22,6 +22,10 @@ This resilience underscores the critical role eggs play as a key driver of groce
 </p>
 
 # Recommendations
+### Maximizing Sales
+- Increase the inventory of brown and light brown eggs while reducing the stock of white and true blue eggs to optimize storage space and align with demand trends.
+- During periods of high food insecurity, increase the inventory of eggs and complementary products commonly purchased alongside them.
+- Bundle eggs with complementary items (e.g., flour, sugar) in promotions or strategically display them together to drive additional sales.
 
 # Clarifying Questions, Assumptions, and Caveats
 ### Quetions for Stakeholders Prior to Project Advancement

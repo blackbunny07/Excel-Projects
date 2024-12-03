@@ -38,34 +38,17 @@ This resilience underscores the critical role eggs play as a key driver of groce
 - Which complementary products should we prioritize in bundling strategies?
 - Are there any resource limitations (e.g., storage space, supplier capacity) we should be aware of?
 ### Assumptions
-- Data Accuracy: The provided egg sales data is assumed to be accurate, complete, and representative of the entire neighborhood.
-- Consumer Behavior: Consumer preferences for egg types (e.g., brown, white) are presumed to remain consistent over the analyzed period unless influenced by external factors (e.g., holidays, promotions).
-- Market Stability: It is assumed that there are no significant external disruptions (e.g., new competitors, policy changes) beyond those explicitly accounted for, such as the impacts of COVID-19.
+- **Data Accuracy:** The provided egg sales data is assumed to be accurate, complete, and representative of the entire neighborhood.
+- **Consumer Behavior:** Consumer preferences for egg types (e.g., brown, white) are presumed to remain consistent over the analyzed period unless influenced by external factors (e.g., holidays, promotions).
+- **Market Stability:** It is assumed that there are no significant external disruptions (e.g., new competitors, policy changes) beyond those explicitly accounted for, such as the impacts of COVID-19.
 ### Caveats
-- Small Sample Size: The analysis is based on data from a single neighborhood and may not be generalizable to areas with different demographics or shopping behaviors.
-- Data Gaps: Missing or incomplete sales data could distort trends or obscure valuable insights.
-- Seasonality and Holidays: Seasonal fluctuations in sales may vary across years, affecting the reliability of trend predictions.
-- Consumer Preference Shifts: Shifts in consumer preferences for certain egg types due to health trends or marketing campaigns were not forecasted in this analysis.
+- **Small Sample Size:** The analysis is based on data from a single neighborhood and may not be generalizable to areas with different demographics or shopping behaviors.
+- **Data Gaps:** Missing or incomplete sales data could distort trends or obscure valuable insights.
+- **Seasonality and Holidays:** Seasonal fluctuations in sales may vary across years, affecting the reliability of trend predictions.
+- **Consumer Preference Shifts:** Shifts in consumer preferences for certain egg types due to health trends or marketing campaigns were not forecasted in this analysis.
 ### Potential Risks
-- Inventory Overstocking: Expanding inventory without accurate demand forecasts may lead to overstocking and product waste.
-- Bundling Limitations: Strategies for bundling eggs with complementary products may not yield consistent results if consumer purchasing habits differ significantly across neighborhoods.
-
-**bold text**
-*italicized text*
-
-1. First Item
-2. Second Item
-
-- First line
-- Second line
-
-`code`
-
-```
-multiple
-line
-code
-```
+- **Inventory Overstocking:** Expanding inventory without accurate demand forecasts may lead to overstocking and product waste.
+- **Bundling Limitations:** Strategies for bundling eggs with complementary products may not yield consistent results if consumer purchasing habits differ significantly across neighborhoods.
 
 Excel Project: [Egg Sales Over Time](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=fzAjnH)
 <img src="https://github.com/user-attachments/assets/c47b12f4-f63f-4f6c-b424-792eea9316bb" alt="Alt Text" width="1000" height="480">

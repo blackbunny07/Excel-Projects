@@ -3,7 +3,7 @@
 # Project Purpose
 This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary
-Egg sales in a neighborhood of 100 houses averaged $1700 monthly during the pre-COVID-19 period of 2019. During the pandemic, egg sales surged to over $2800 in February 2020 and in between September 2021 and November 2021, reflecting heightened consumer demand. Despite challenge such as supply chain disruptions due to limited transportation, egg sales demonstrated resilience, eventually stabilizing at $800 per month post-pandemic.
+Egg sales in a neighborhood of 100 houses averaged $1700 monthly during the pre-COVID-19 period of 2019. During the pandemic, monthly egg sales surged over 164%, from February 2020 to February 2021, reflecting heightened consumer demand. Despite challenge such as supply chain disruptions due to limited transportation, egg sales demonstrated resilience, eventually stabilizing at $800 per month post-pandemic.
 
 This resilience underscores the critical role eggs play as a key driver of grocery shopping habits. Grocery stores can leverage these insights by expanding their inventory of eggs and complementary products often purchased alongside eggs. This strategic approach ensures grocery stores are well-stocked to meet customer needs during both routine and peak demand periods.
 <p align="center">
@@ -12,13 +12,14 @@ This resilience underscores the critical role eggs play as a key driver of groce
 
 # Insights
 ### Sales Trends
-- Egg sales average $20,000 annually per neighborhood of 100 houses.
+- Sales average $20,000 annually in neighborhoods with 100 houses.
+- A 164% surge in sales was observed during peak COVID-19 periods: February 2020 to February 2021.
+- The quantities of brown and light brown eggs sold were more than double those of white and true blue eggs.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6a71636-602a-406b-a18d-a6204f4ed61b" alt="Alt Text" width="550" height="120">
+  <img src="https://github.com/user-attachments/assets/b29da92a-487c-440c-968f-df9873bc1696" alt="Alt Text" width="900" height="450">
 </p>
-
-### Top 10 Buyers
 
 # Recommendations
 

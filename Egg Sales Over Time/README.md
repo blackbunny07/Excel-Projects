@@ -29,6 +29,14 @@ This resilience underscores the critical role eggs play as a key driver of groce
 
 # Clarifying Questions, Assumptions, and Caveats
 ### Quetions for Stakeholders Prior to Project Advancement
+- How often should our findings or recommendations be revisited and updated?
+- Are we targeting a geographic area or demographic group?
+- Do we need to consider trends in neighboring markets or regions?
+- Should external factors (like holidays, economic conditions, or promotions) be incorporated into the analysis?
+- Are there known supply chain constraints we need to account for in the recommendations?
+- How flexible is the current inventory system for adjusting stock levels?
+- Which complementary products should we prioritize in bundling strategies?
+- Are there any resource limitations (e.g., storage space, supplier capacity) we should be aware of?
 ### Assumptions and Caveats
 
 **bold text**

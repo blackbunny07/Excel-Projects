@@ -27,7 +27,7 @@ This resilience underscores the critical role eggs play as a key driver of groce
 - During periods of high food insecurity, increase the inventory of eggs and complementary products commonly purchased alongside them.
 - Bundle eggs with complementary items (e.g., flour, sugar) in promotions or strategically display them together to drive additional sales.
 
-# Clarifying Questions, Assumptions, and Caveats
+# Clarifying Questions, Assumptions, Caveats, and Potential Risks
 ### Quetions for Stakeholders Prior to Project Advancement
 - How often should our findings or recommendations be revisited and updated?
 - Are we targeting a geographic area or demographic group?
@@ -37,7 +37,18 @@ This resilience underscores the critical role eggs play as a key driver of groce
 - How flexible is the current inventory system for adjusting stock levels?
 - Which complementary products should we prioritize in bundling strategies?
 - Are there any resource limitations (e.g., storage space, supplier capacity) we should be aware of?
-### Assumptions and Caveats
+### Assumptions
+- Data Accuracy: The provided egg sales data is assumed to be accurate, complete, and representative of the entire neighborhood.
+- Consumer Behavior: Consumer preferences for egg types (e.g., brown, white) are presumed to remain consistent over the analyzed period unless influenced by external factors (e.g., holidays, promotions).
+- Market Stability: It is assumed that there are no significant external disruptions (e.g., new competitors, policy changes) beyond those explicitly accounted for, such as the impacts of COVID-19.
+### Caveats
+- Small Sample Size: The analysis is based on data from a single neighborhood and may not be generalizable to areas with different demographics or shopping behaviors.
+- Data Gaps: Missing or incomplete sales data could distort trends or obscure valuable insights.
+- Seasonality and Holidays: Seasonal fluctuations in sales may vary across years, affecting the reliability of trend predictions.
+- Consumer Preference Shifts: Shifts in consumer preferences for certain egg types due to health trends or marketing campaigns were not forecasted in this analysis.
+### Potential Risks
+- Inventory Overstocking: Expanding inventory without accurate demand forecasts may lead to overstocking and product waste.
+- Bundling Limitations: Strategies for bundling eggs with complementary products may not yield consistent results if consumer purchasing habits differ significantly across neighborhoods.
 
 **bold text**
 *italicized text*

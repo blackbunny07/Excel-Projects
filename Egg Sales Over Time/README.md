@@ -6,6 +6,11 @@
    - [Sales Trends](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#sales-trends)
 4. [Recommendations](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#recommendations)
    - [Maximizing Sales](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#maximizing-sales)
+5. [Clarifying Questions, Assumptions, Caveats, and Potential Risks](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#clarifying-questions-assumptions-caveats-and-potential-risks)
+   - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#quetions-for-stakeholders-prior-to-project-advancement)
+   - [Assumptions](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#assumptions)
+   - [Caveats](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#caveats)
+   - [Potential Risks](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#potential-risks)
 # Project Purpose
 This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary

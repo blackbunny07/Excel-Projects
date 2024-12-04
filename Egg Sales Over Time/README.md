@@ -11,7 +11,7 @@
    - [Assumptions](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#assumptions)
    - [Caveats](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#caveats)
    - [Potential Risks](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#potential-risks)
-6. [Dashboard & Data Tables](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#excel-project-egg-sales-over-time)
+6. [Dashboard & Data Tables](https://github.com/blackbunny07/Excel-Projects/edit/main/Egg%20Sales%20Over%20Time/README.md#dashboard--data-tables)
 # Project Purpose
 This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary

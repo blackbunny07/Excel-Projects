@@ -62,7 +62,7 @@ This resilience underscores the critical role eggs play as a key driver of groce
 - **Inventory Overstocking:** Expanding inventory without accurate demand forecasts may lead to overstocking and product waste.
 - **Bundling Limitations:** Strategies for bundling eggs with complementary products may not yield consistent results if consumer purchasing habits differ significantly across neighborhoods.
 
-# [*Dashboard & Data Tables*](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=fzAjnH)
+# [*Dashboard*](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=fzAjnH)
 <img src="https://github.com/user-attachments/assets/c47b12f4-f63f-4f6c-b424-792eea9316bb" alt="Alt Text" width="1000" height="480">
 
 
